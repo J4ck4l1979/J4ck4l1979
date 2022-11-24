@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J4ck4l1979
-- 👀 I’m interested in cyber security and programming.
+- 👀 I’m interested in cyber security, open source, Linux and programming.
 - 🌱 I’m Cyber Security Student at Open Univerity and currently learning Python.
 - 💞️ I’m looking to collaborate with open minded people.
 
